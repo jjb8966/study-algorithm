@@ -2,10 +2,10 @@ package kit.hash;
 
 import java.util.*;
 
-public class Solution_2 {
+public class Solution2 {
 
     public static void main(String[] args) {
-        Solution_2 prob = new Solution_2();
+        Solution2 prob = new Solution2();
         String[] participant = {"leo", "kiki", "eden", "kiki"};
         String[] completion = {"eden", "kiki", "leo"};
 

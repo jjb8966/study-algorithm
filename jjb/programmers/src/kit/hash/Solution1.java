@@ -1,12 +1,11 @@
 package kit.hash;
 
 import java.util.*;
-import java.util.stream.Collectors;
 
-public class Solution_1 {
+public class Solution1 {
 
     public static void main(String[] args) {
-        Solution_1 prob = new Solution_1();
+        Solution1 prob = new Solution1();
         int[] nums = {3, 1, 2, 3};
 
         System.out.println(prob.solution(nums));
